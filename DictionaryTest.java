@@ -9,7 +9,6 @@
 #***************************************************************************/
 public class DictionaryTest{ 
 	public static void main(String[] args){
-	//This ended up very similar to the client which I also used for testing 
 	  Dictionary dict = new Dictionary();
 	  //This is the samething as the scripts 
 	 for(int i = 0; i < 10; i++){
